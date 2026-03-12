@@ -1,9 +1,55 @@
-## 👋 Hi there, I'm Palak Sharma
-I'm a 2nd year Computer Science student at Rayat Bahra Institute Of Engineering & Nanotechnology, with a strong passion for Data Science and AI. What truly drives me is the potential of these technologies to make a tangible difference in people's lives using data to create intelligent solutions that can help those in need, often in matter of seconds.
-I believe the best way to learn is by doing, so I'm actively building projects to expand my skills and transform raw data into meaningful insights.
+# 👋 Hi there, I'm Palak Sharma
 
-My Current Toolkit
--> Languages: Python
+- 2nd Year Computer Science Engineering Student  
+- Interested in AI, Data, and Web Development  
+- Enjoy turning ideas into small projects and learning by building.  
+- Currently exploring how data, AI, and software can be used to solve real-world problems.
 
-I'm currently focused on :
--> Deepening my knowledge of Python and machine learning algorithms.
+---
+
+## What I'm Currently Learning
+- Python for data analysis
+- Machine learning fundamentals
+- Web development basics
+
+---
+
+## Tech I'm Working With
+
+**Languages**
+- Python
+- C
+- C++
+
+**Python Libraries**
+- NumPy
+- Pandas
+- Matplotlib
+
+**Web**
+- HTML
+- CSS
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+## Current Focus
+- Building beginner-friendly projects
+- Improving problem-solving skills
+- Learning more about AI and data science
+
+---
+
+## Let's Connect
+I'm always open to learning, collaboration, and interesting projects.
+If you find my work interesting, feel free to explore my repositories or connect!
+
+## 📊 GitHub Stats
+
+![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palaksharma032&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palaksharma032&layout=compact&theme=tokyonight)
