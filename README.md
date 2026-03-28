@@ -8,8 +8,7 @@
 ---
 
 ## What I'm Currently Learning
-- Python for data analysis
-- Machine learning fundamentals
+- DSA in C++
 - Web development basics
 
 ---
