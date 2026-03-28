@@ -2,7 +2,7 @@
 
 - 2nd Year Computer Science Engineering Student  
 - Interested in AI, Data, and Web Development  
-- Enjoy turning ideas into small projects and learning by building.  
+- I enjoy turning ideas into small projects and learning by building.  
 - Currently exploring how data, AI, and software can be used to solve real-world problems.
 
 ---
