@@ -46,9 +46,3 @@
 ## Let's Connect
 I'm always open to learning, collaboration, and interesting projects.
 If you find my work interesting, feel free to explore my repositories or connect!
-
-## 📊 GitHub Stats
-
-![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palaksharma032&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palaksharma032&layout=compact&theme=tokyonight)
