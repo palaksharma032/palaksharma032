@@ -28,6 +28,7 @@
 **Web**
 - HTML
 - CSS
+- Javascript
 
 **Tools**
 - Git
