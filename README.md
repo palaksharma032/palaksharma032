@@ -1,9 +1,9 @@
 <div align="center">
-<img width="1050" height="580" alt="Your paragraph text (1)" src="https://github.com/user-attachments/assets/349b7880-a13a-4662-bd56-c40ccb0e19f3" />
+<img width="1050" height="600" alt="Your paragraph text" src="https://github.com/user-attachments/assets/e82464bf-7aad-4085-9940-63e0f662e38c" />
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=1F4FD8&center=true&vCenter=true&width=600&lines=Aspiring+Fullstack+Developer;Currently+Learning+Frontend+Development;AI%2FML+Enthusiast;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=1F4FD8&center=true&vCenter=true&width=600&lines=Aspiring+Fullstack+Developer;Currently+Learning+Backend+Development;AI%2FML+Enthusiast;" alt="Typing SVG" />
 </div>
 <br/>
 
