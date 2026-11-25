@@ -4,7 +4,7 @@
 <tr>
 <td width="64%" valign="middle">
 
-<p><sub>STUDENT DEVELOPER · ASPIRING SOFTWARE ENGINEERING · OPEN SOURCE CONTRIBUTOR</sub></p>
+<p><sub>STUDENT DEVELOPER · ASPIRING SOFTWARE ENGINEER · OPEN SOURCE CONTRIBUTOR</sub></p>
 
 <h1>Palak Sharma</h1>
 
